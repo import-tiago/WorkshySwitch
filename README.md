@@ -1,5 +1,5 @@
 # WorkshySwitch
-WorkshySwitch allows wireless control of light bulbs without harming the use of the physical switch in IoT applications.
+WorkshySwitch allows wireless control of lamps without harming the use of the physical switch in IoT applications.
 
 ## Features
 ##### Controller Device / [8-bit, RISC, AVR Microcontroller](https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Hardware/3.%20Datasheets/MCU/ATmega328P%20-%20Datasheet.pdf)

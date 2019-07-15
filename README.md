@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-UnderDev-yellow.svg)
+
 # WorkshySwitch
 WorkshySwitch allows wireless control of lamps without harming the use of the physical switch in IoT applications.
 

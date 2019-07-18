@@ -358,6 +358,8 @@ UsedLibrary="D:/Google Drive/Eagle Libraries/Thermal Fuse.lbr"
 UsedLibrary="C:/Users/Tiago Silva/Documents/PCB Antenna.lbr"
 UsedLibrary="D:/Google Drive/Eagle Libraries/CC2541F256RHAT.lbr"
 UsedLibrary="D:/Google Drive/Eagle Libraries/rc-master-smd.lbr"
+UsedLibrary="D:/Google Drive/Eagle Libraries/fuse.lbr"
+UsedLibrary="D:/Google Drive/Eagle Libraries/REG1117.lbr"
 
 [Win_1]
 Type="Control Panel"

@@ -15,4 +15,4 @@ WorkshySwitch allows wireless control of lamps without harming the use of the ph
 ##### Firmware Project / [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
 
 
-![enter image description here](https://lh3.googleusercontent.com/QnE2ERFWZUse_FhUFrPaFwYt-uBxQyI2dpxBAx1vLOIdfczdHIcfVr-IMROu0aBN-lJrBaZrM6nt7Q=s800 "PCB")
+![enter image description here](https://lh3.googleusercontent.com/q19L4pmHtmtbpEL5es4tlab5YxSL9vFOCWOg-_32C39HOU2wmbOy7zVijK58xmzWFVKVt0OJ9Uq58g "WorkshySwitch PCB")

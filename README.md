@@ -4,15 +4,17 @@
 WorkshySwitch allows wireless control of lamps without harming the use of the physical switch in IoT applications.
 
 ## Features
-##### Controller Device / [8-bit, RISC, AVR Microcontroller](https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Hardware/3.%20Datasheets/MCU/ATmega328P%20-%20Datasheet.pdf)
+##### Controller Device / [SoC CC2541 with 8051 MCU and Embedded Bluetooth 4.0](http://www.ti.com/lit/ds/symlink/cc2541.pdf)
 
-##### Wireless Technology / [Bluetooth Low Energy - CSR1010](https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Hardware/3.%20Datasheets/BLE/CSR1010%20(BLE%20IC)%20-%20Datasheet.pdf)
+##### Wireless Technology / [Embedded Meandered Inverted F Antenna (MIFA) with 50 ohm at 2.45 GHz](https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Hardware/3.%20Datasheets/MCU/CC25XX%20-%20Small%20Size%202.4%20GHz%20PCB%20antenna.pdf)
 
 ##### Low Power Requirements / Does not apply in this project
 
 ##### Hardware Project / [Autodesk EAGLE](https://www.autodesk.com/products/eagle/free-download)
 
 ##### Firmware Project / [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
+
+##### 3D Model Project / [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview#banner)
 
 
 ## PCB Details

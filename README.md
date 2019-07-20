@@ -12,7 +12,7 @@ WorkshySwitch allows wireless control of lamps without harming the use of the ph
 
 ##### Hardware Project / [Autodesk EAGLE](https://www.autodesk.com/products/eagle/free-download)
 
-##### Firmware Project / [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
+##### Firmware Project / [IAR Embedded Workbench](https://www.iar.com/iar-embedded-workbench/)
 
 ##### 3D Model Project / [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview#banner)
 

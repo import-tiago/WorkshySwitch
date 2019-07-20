@@ -16,7 +16,7 @@ WorkshySwitch allows wireless control of lamps without harming the use of the ph
 
 
 ## PCB Details
-![enter image description here](https://lh3.googleusercontent.com/0YkMSoWSy8lDe94VEN78-Di_OmsVWsUGM5TbaJyXnoHn3q4QoS_zid7w2wPwDVaxtcEQeQNwCVT3Fw "WorkshySwitch PCB Details")
+![enter image description here](https://lh3.googleusercontent.com/hLtCp3dGUOFMULMkgc6sV7d0npo-TAyNPbSIwNTWea8iPQYIdU6E9g_Ha75eEMQbo1GRTQt6wGhECA=s1000)
 
 ## How to Connect
 ![enter image description here](https://lh3.googleusercontent.com/7rgXGQtNDtO_QUaUtVWs2MxXH35h4N1QdsFPBI-hnCzmHO8fmXSKnaraACc9gCco_4weO6an6_5qpQ "WorkshySwitch Circuit")

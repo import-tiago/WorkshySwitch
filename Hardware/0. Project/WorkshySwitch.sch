@@ -7139,6 +7139,54 @@ Source:www.littlefuse.com .. 281005A.PDF</description>
 Block, Siemens and generic&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
+<package name="S05K17" urn="urn:adsk.eagle:footprint:30435/1" library_version="1">
+<description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
+<wire x1="-0.889" y1="3.683" x2="0.889" y2="3.683" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="2.667" x2="1.905" y2="-2.667" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="2.667" x2="-1.905" y2="-2.667" width="0.1524" layer="21"/>
+<wire x1="-0.889" y1="-3.683" x2="0.889" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-1.143" y1="-1.143" x2="-1.143" y2="2.032" width="0.0508" layer="21"/>
+<wire x1="1.143" y1="-2.032" x2="1.143" y2="1.143" width="0.0508" layer="21"/>
+<wire x1="0.889" y1="-3.683" x2="1.905" y2="-2.667" width="0.1524" layer="21" curve="90"/>
+<wire x1="-1.905" y1="2.667" x2="-0.889" y2="3.683" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-1.905" y1="-2.667" x2="-0.889" y2="-3.683" width="0.1524" layer="21" curve="90"/>
+<wire x1="0.889" y1="3.683" x2="1.905" y2="2.667" width="0.1524" layer="21" curve="-90"/>
+<wire x1="0.889" y1="0" x2="0.889" y2="1.143" width="0.0508" layer="21"/>
+<wire x1="-0.889" y1="-1.143" x2="-0.889" y2="0" width="0.0508" layer="21"/>
+<pad name="1" x="-0.762" y="-2.54" drill="0.9144" shape="long"/>
+<pad name="2" x="0.762" y="2.54" drill="0.9144" shape="long"/>
+<text x="-2.286" y="-2.54" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="3.556" y="-2.54" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
+</package>
+<package name="S07K17" urn="urn:adsk.eagle:footprint:30446/1" library_version="1">
+<description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
+<wire x1="-0.635" y1="4.572" x2="0.635" y2="4.572" width="0.1524" layer="21"/>
+<wire x1="-0.762" y1="-1.397" x2="-0.762" y2="2.54" width="0.0508" layer="21"/>
+<wire x1="0.762" y1="-2.54" x2="0.762" y2="1.397" width="0.0508" layer="21"/>
+<wire x1="0.508" y1="-2.54" x2="0.508" y2="0" width="0.0508" layer="21"/>
+<wire x1="-0.508" y1="0" x2="-0.508" y2="2.54" width="0.0508" layer="21"/>
+<wire x1="1.905" y1="-0.635" x2="1.905" y2="2.413" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="0.635" x2="-1.905" y2="-2.413" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-1.524" x2="-1.27" y2="-3.556" width="0.1524" layer="51"/>
+<wire x1="1.27" y1="1.524" x2="1.27" y2="3.556" width="0.1524" layer="51"/>
+<wire x1="-1.905" y1="0.635" x2="-1.27" y2="1.27" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-1.905" y1="-2.413" x2="-1.27" y2="-3.048" width="0.1524" layer="51" curve="90"/>
+<wire x1="1.27" y1="3.048" x2="1.905" y2="2.413" width="0.1524" layer="51" curve="-90"/>
+<wire x1="1.27" y1="-1.27" x2="1.905" y2="-0.635" width="0.1524" layer="21" curve="90"/>
+<wire x1="1.27" y1="-3.937" x2="1.27" y2="1.524" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-1.524" x2="-1.27" y2="3.937" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="-4.572" x2="1.27" y2="-3.937" width="0.1524" layer="21" curve="90"/>
+<wire x1="-1.27" y1="-3.937" x2="-0.635" y2="-4.572" width="0.1524" layer="21" curve="90"/>
+<wire x1="-1.27" y1="3.937" x2="-0.635" y2="4.572" width="0.1524" layer="21" curve="-90"/>
+<wire x1="0.635" y1="4.572" x2="1.27" y2="3.937" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-0.635" y1="-4.572" x2="0.635" y2="-4.572" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="3.556" x2="1.27" y2="3.937" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-3.937" x2="-1.27" y2="-3.556" width="0.1524" layer="21"/>
+<pad name="1" x="-0.762" y="-2.54" drill="0.9144" shape="long"/>
+<pad name="2" x="0.762" y="2.54" drill="0.9144" shape="long"/>
+<text x="-2.286" y="-4.064" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="3.556" y="-4.064" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
+</package>
 <package name="R-5" urn="urn:adsk.eagle:footprint:30504/1" library_version="1">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
 <wire x1="-1.27" y1="0.635" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
@@ -7285,25 +7333,6 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <pad name="2" x="0.635" y="2.54" drill="0.9144" shape="long"/>
 <text x="-2.032" y="-2.54" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="3.302" y="-2.54" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
-</package>
-<package name="S05K17" urn="urn:adsk.eagle:footprint:30435/1" library_version="1">
-<description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
-<wire x1="-0.889" y1="3.683" x2="0.889" y2="3.683" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="2.667" x2="1.905" y2="-2.667" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="2.667" x2="-1.905" y2="-2.667" width="0.1524" layer="21"/>
-<wire x1="-0.889" y1="-3.683" x2="0.889" y2="-3.683" width="0.1524" layer="21"/>
-<wire x1="-1.143" y1="-1.143" x2="-1.143" y2="2.032" width="0.0508" layer="21"/>
-<wire x1="1.143" y1="-2.032" x2="1.143" y2="1.143" width="0.0508" layer="21"/>
-<wire x1="0.889" y1="-3.683" x2="1.905" y2="-2.667" width="0.1524" layer="21" curve="90"/>
-<wire x1="-1.905" y1="2.667" x2="-0.889" y2="3.683" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-1.905" y1="-2.667" x2="-0.889" y2="-3.683" width="0.1524" layer="21" curve="90"/>
-<wire x1="0.889" y1="3.683" x2="1.905" y2="2.667" width="0.1524" layer="21" curve="-90"/>
-<wire x1="0.889" y1="0" x2="0.889" y2="1.143" width="0.0508" layer="21"/>
-<wire x1="-0.889" y1="-1.143" x2="-0.889" y2="0" width="0.0508" layer="21"/>
-<pad name="1" x="-0.762" y="-2.54" drill="0.9144" shape="long"/>
-<pad name="2" x="0.762" y="2.54" drill="0.9144" shape="long"/>
-<text x="-2.286" y="-2.54" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="3.556" y="-2.54" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
 <package name="S05K175" urn="urn:adsk.eagle:footprint:30437/1" library_version="1">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
@@ -7523,35 +7552,6 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <pad name="2" x="0.635" y="2.54" drill="0.9144" shape="long"/>
 <text x="-2.032" y="-4.064" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="3.429" y="-4.064" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
-</package>
-<package name="S07K17" urn="urn:adsk.eagle:footprint:30446/1" library_version="1">
-<description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
-<wire x1="-0.635" y1="4.572" x2="0.635" y2="4.572" width="0.1524" layer="21"/>
-<wire x1="-0.762" y1="-1.397" x2="-0.762" y2="2.54" width="0.0508" layer="21"/>
-<wire x1="0.762" y1="-2.54" x2="0.762" y2="1.397" width="0.0508" layer="21"/>
-<wire x1="0.508" y1="-2.54" x2="0.508" y2="0" width="0.0508" layer="21"/>
-<wire x1="-0.508" y1="0" x2="-0.508" y2="2.54" width="0.0508" layer="21"/>
-<wire x1="1.905" y1="-0.635" x2="1.905" y2="2.413" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="0.635" x2="-1.905" y2="-2.413" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="-1.524" x2="-1.27" y2="-3.556" width="0.1524" layer="51"/>
-<wire x1="1.27" y1="1.524" x2="1.27" y2="3.556" width="0.1524" layer="51"/>
-<wire x1="-1.905" y1="0.635" x2="-1.27" y2="1.27" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-1.905" y1="-2.413" x2="-1.27" y2="-3.048" width="0.1524" layer="51" curve="90"/>
-<wire x1="1.27" y1="3.048" x2="1.905" y2="2.413" width="0.1524" layer="51" curve="-90"/>
-<wire x1="1.27" y1="-1.27" x2="1.905" y2="-0.635" width="0.1524" layer="21" curve="90"/>
-<wire x1="1.27" y1="-3.937" x2="1.27" y2="1.524" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="-1.524" x2="-1.27" y2="3.937" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="-4.572" x2="1.27" y2="-3.937" width="0.1524" layer="21" curve="90"/>
-<wire x1="-1.27" y1="-3.937" x2="-0.635" y2="-4.572" width="0.1524" layer="21" curve="90"/>
-<wire x1="-1.27" y1="3.937" x2="-0.635" y2="4.572" width="0.1524" layer="21" curve="-90"/>
-<wire x1="0.635" y1="4.572" x2="1.27" y2="3.937" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-0.635" y1="-4.572" x2="0.635" y2="-4.572" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="3.556" x2="1.27" y2="3.937" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="-3.937" x2="-1.27" y2="-3.556" width="0.1524" layer="21"/>
-<pad name="1" x="-0.762" y="-2.54" drill="0.9144" shape="long"/>
-<pad name="2" x="0.762" y="2.54" drill="0.9144" shape="long"/>
-<text x="-2.286" y="-4.064" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="3.556" y="-4.064" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
 <package name="S07K175" urn="urn:adsk.eagle:footprint:30448/1" library_version="1">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
@@ -7852,6 +7852,18 @@ Source: www.epcos.com .. 01430148.pdf</description>
 </package>
 </packages>
 <packages3d>
+<package3d name="S05K17" urn="urn:adsk.eagle:package:30525/1" type="box" library_version="1">
+<description>VARISTOR</description>
+<packageinstances>
+<packageinstance name="S05K17"/>
+</packageinstances>
+</package3d>
+<package3d name="S07K17" urn="urn:adsk.eagle:package:30546/1" type="box" library_version="1">
+<description>VARISTOR</description>
+<packageinstances>
+<packageinstance name="S07K17"/>
+</packageinstances>
+</package3d>
 <package3d name="R-5" urn="urn:adsk.eagle:package:30591/1" type="box" library_version="1">
 <description>VARISTOR</description>
 <packageinstances>
@@ -7919,12 +7931,6 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <packageinstance name="S05K11"/>
 </packageinstances>
 </package3d>
-<package3d name="S05K17" urn="urn:adsk.eagle:package:30525/1" type="box" library_version="1">
-<description>VARISTOR</description>
-<packageinstances>
-<packageinstance name="S05K17"/>
-</packageinstances>
-</package3d>
 <package3d name="S05K175" urn="urn:adsk.eagle:package:30529/1" type="box" library_version="1">
 <description>VARISTOR</description>
 <packageinstances>
@@ -7989,12 +7995,6 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <description>VARISTOR</description>
 <packageinstances>
 <packageinstance name="S07K11"/>
-</packageinstances>
-</package3d>
-<package3d name="S07K17" urn="urn:adsk.eagle:package:30546/1" type="box" library_version="1">
-<description>VARISTOR</description>
-<packageinstances>
-<packageinstance name="S07K17"/>
 </packageinstances>
 </package3d>
 <package3d name="S07K175" urn="urn:adsk.eagle:package:30539/1" type="box" library_version="1">
@@ -10008,11 +10008,11 @@ Details see: &lt;a href="http://katalog.we-online.de/em/datasheet/4341x1xxx8x6.p
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="SUPPLY10" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="+4.1V" device="" value="3.3V"/>
 <part name="F2" library="fuse" library_urn="urn:adsk.eagle:library:233" deviceset="QPL" device="" package3d_urn="urn:adsk.eagle:package:14085/1" value="200 mA"/>
-<part name="R5" library="varistor" library_urn="urn:adsk.eagle:library:410" deviceset="VARISTOR" device="S05K11" package3d_urn="urn:adsk.eagle:package:30524/1" value="130VRMS"/>
+<part name="R5" library="varistor" library_urn="urn:adsk.eagle:library:410" deviceset="VARISTOR" device="S05K17" package3d_urn="urn:adsk.eagle:package:30525/1" value="130VRMS"/>
 <part name="C18" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value=""/>
 <part name="C19" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value=""/>
 <part name="C21" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value=""/>
-<part name="C22" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value=""/>
+<part name="C22" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value="C0402"/>
 <part name="C23" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value=""/>
 <part name="C24" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="C0402" device="" value=""/>
 <part name="L1" library="smd-ipc" library_urn="urn:adsk.eagle:library:361" deviceset="L0402" device="" value=""/>

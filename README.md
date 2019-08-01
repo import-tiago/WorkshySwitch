@@ -1,7 +1,7 @@
 # WorkshySwitch
 ![Status](https://img.shields.io/badge/Status-UnderDev-red.svg) [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow.svg)](https://www.buymeacoffee.com/TiagoPaulaSilva)
 
-WorkshySwitch it's an IoT device for wireless control of lamps without harming the use of the physical switch.
+WorkshySwitch is an IoT device for wireless control of lamps without harming the use of the physical switch.
 
 ## Features
 ##### Controller Device / [SoC CC2541 with 8051 MCU and Embedded Bluetooth 4.0](http://www.ti.com/lit/ds/symlink/cc2541.pdf)

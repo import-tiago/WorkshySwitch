@@ -18,13 +18,13 @@ WorkshySwitch is an IoT device for wireless control of lamps without harming the
 
 
 ## PCB Details
-![enter image description here](https://lh3.googleusercontent.com/hLtCp3dGUOFMULMkgc6sV7d0npo-TAyNPbSIwNTWea8iPQYIdU6E9g_Ha75eEMQbo1GRTQt6wGhECA=s1000)
+<img src="https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Others/WorkshySwitch%20PCB%20Details.png" width="100%" height="100%">
 
 ## How to Connect
-![enter image description here](https://lh3.googleusercontent.com/7rgXGQtNDtO_QUaUtVWs2MxXH35h4N1QdsFPBI-hnCzmHO8fmXSKnaraACc9gCco_4weO6an6_5qpQ "WorkshySwitch Circuit")
+<img src="https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Others/WorkshySwitch%20Circuit.png" width="80%" height="80%">
 
 ## Schematic
-![enter image description here](https://lh3.googleusercontent.com/qkhO1l2MksomBU4o_UNrvi2LkY6ZTOutwn9xb8LhJd1Zqx6JkKQkQstB2rqtTgr0T4r5L5H9SmJoVw=s2000)
+<img src="https://github.com/TiagoPaulaSilva/WorkshySwitch/blob/master/Others/WorkshySwitch%20Schematic.png" width="100%" height="100%">
 
 ### Contributing
 0. Give this project a :star:
